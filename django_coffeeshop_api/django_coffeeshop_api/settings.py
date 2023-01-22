@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-gckr15-q7)*^n9oy+vqnqd)139=v#wnm8ka0j2zuv+llqsdvew
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'boiling-ocean-74208.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'fierce-mesa-26587.herokuapp.com']
 
 
 # Application definition
